@@ -1,0 +1,115 @@
+[[diffutils]]
+arch = "aarch64"
+git-tree-sha1 = "2ea0121a940f7c2f62727f83c2dd9f768d17a82e"
+libc = "glibc"
+os = "linux"
+
+    [[diffutils.download]]
+    sha256 = "b4c995b0fece2cdac79d47f0b753596b2d870486e375ce236939e522280bc95c"
+    url = "https://github.com/JuliaBinaryWrappers/diffutils_jll.jl/releases/download/diffutils-v3.7.0+0/diffutils.v3.7.0.aarch64-linux-gnu.tar.gz"
+[[diffutils]]
+arch = "aarch64"
+git-tree-sha1 = "cb2e4e748b3809539324cfd0924b7a6f52c94aa3"
+libc = "musl"
+os = "linux"
+
+    [[diffutils.download]]
+    sha256 = "a5dfdcdb3d7699bdc58491b6c0ec299f3307a46f9af9394e28fbdb9b03a8eda9"
+    url = "https://github.com/JuliaBinaryWrappers/diffutils_jll.jl/releases/download/diffutils-v3.7.0+0/diffutils.v3.7.0.aarch64-linux-musl.tar.gz"
+[[diffutils]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0bd93a7c98bbe8e816c98a9a844fded31fabbe08"
+libc = "glibc"
+os = "linux"
+
+    [[diffutils.download]]
+    sha256 = "7baf91338db4ee42080533a513841d330270be609d5a2bb7c717f1dee3c492a3"
+    url = "https://github.com/JuliaBinaryWrappers/diffutils_jll.jl/releases/download/diffutils-v3.7.0+0/diffutils.v3.7.0.armv7l-linux-gnueabihf.tar.gz"
+[[diffutils]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "58676b6135287b7d7693b8046f214cc26a69e627"
+libc = "musl"
+os = "linux"
+
+    [[diffutils.download]]
+    sha256 = "d1cc56cab65df13200e83e7f8914fee5f8ec226ac1fb4306dda95c023841d3b4"
+    url = "https://github.com/JuliaBinaryWrappers/diffutils_jll.jl/releases/download/diffutils-v3.7.0+0/diffutils.v3.7.0.armv7l-linux-musleabihf.tar.gz"
+[[diffutils]]
+arch = "i686"
+git-tree-sha1 = "5d48d4ecbfce84dc14c5bd3f9216a5037543e6fe"
+libc = "glibc"
+os = "linux"
+
+    [[diffutils.download]]
+    sha256 = "413b5335507fb27398900da52cc678f79d0e3cf89a122f7126bbb7deb8d7894d"
+    url = "https://github.com/JuliaBinaryWrappers/diffutils_jll.jl/releases/download/diffutils-v3.7.0+0/diffutils.v3.7.0.i686-linux-gnu.tar.gz"
+[[diffutils]]
+arch = "i686"
+git-tree-sha1 = "b72c504f88c11d0777963b18ddf5664bc6a2383f"
+libc = "musl"
+os = "linux"
+
+    [[diffutils.download]]
+    sha256 = "459ff1c9ea829463ed201b7fa7adf7768be3352c880268b8eca13a14959d15ef"
+    url = "https://github.com/JuliaBinaryWrappers/diffutils_jll.jl/releases/download/diffutils-v3.7.0+0/diffutils.v3.7.0.i686-linux-musl.tar.gz"
+[[diffutils]]
+arch = "i686"
+git-tree-sha1 = "68ab0d71522ae7a083a0f9bb447fa85e2acd4758"
+os = "windows"
+
+    [[diffutils.download]]
+    sha256 = "b4c9c6eb41b0ed96b328f313a12332ca2b993d631e372a0f6d4c66acac389010"
+    url = "https://github.com/JuliaBinaryWrappers/diffutils_jll.jl/releases/download/diffutils-v3.7.0+0/diffutils.v3.7.0.i686-w64-mingw32.tar.gz"
+[[diffutils]]
+arch = "powerpc64le"
+git-tree-sha1 = "422c5211bddb12f924a7e9f84f0c7489f68d99d0"
+libc = "glibc"
+os = "linux"
+
+    [[diffutils.download]]
+    sha256 = "46b6ad1735f58b1e2919861cbaee110cce23e83f024be253066a1fe63b2205dd"
+    url = "https://github.com/JuliaBinaryWrappers/diffutils_jll.jl/releases/download/diffutils-v3.7.0+0/diffutils.v3.7.0.powerpc64le-linux-gnu.tar.gz"
+[[diffutils]]
+arch = "x86_64"
+git-tree-sha1 = "5cccf977bced5682cd62905f0429c5009e669a3a"
+os = "macos"
+
+    [[diffutils.download]]
+    sha256 = "213babc1b9f619e8bcc05b3389c9cf90428461cc8167983023d96f15a6d2fa9e"
+    url = "https://github.com/JuliaBinaryWrappers/diffutils_jll.jl/releases/download/diffutils-v3.7.0+0/diffutils.v3.7.0.x86_64-apple-darwin.tar.gz"
+[[diffutils]]
+arch = "x86_64"
+git-tree-sha1 = "cca753172aba9ce256b386871f0db2f846775b40"
+libc = "glibc"
+os = "linux"
+
+    [[diffutils.download]]
+    sha256 = "a16d8f2c1bf3fc67215931c9563cfa187389582c63ef723b4dfb9572b024ff50"
+    url = "https://github.com/JuliaBinaryWrappers/diffutils_jll.jl/releases/download/diffutils-v3.7.0+0/diffutils.v3.7.0.x86_64-linux-gnu.tar.gz"
+[[diffutils]]
+arch = "x86_64"
+git-tree-sha1 = "357d81a32e976052717fdfb35c6f8c346009d4fa"
+libc = "musl"
+os = "linux"
+
+    [[diffutils.download]]
+    sha256 = "7eba68a89ca04a9601adb23c061764eeb42d8893c8e531879a209f3088792dbe"
+    url = "https://github.com/JuliaBinaryWrappers/diffutils_jll.jl/releases/download/diffutils-v3.7.0+0/diffutils.v3.7.0.x86_64-linux-musl.tar.gz"
+[[diffutils]]
+arch = "x86_64"
+git-tree-sha1 = "7d49d68e4756c35092ae1439c577f4f9485233bc"
+os = "freebsd"
+
+    [[diffutils.download]]
+    sha256 = "4e4baa41c04706e9269e30622a5567de657dc9bc010cc8dc67380436011829c9"
+    url = "https://github.com/JuliaBinaryWrappers/diffutils_jll.jl/releases/download/diffutils-v3.7.0+0/diffutils.v3.7.0.x86_64-unknown-freebsd.tar.gz"
+[[diffutils]]
+arch = "x86_64"
+git-tree-sha1 = "3e3756c4d209160e85d2b586fb634e175e695085"
+os = "windows"
+
+    [[diffutils.download]]
+    sha256 = "ea450286be3530c757a16367f22c935a046e5bad226fc39a9a06c8b8760c8929"
+    url = "https://github.com/JuliaBinaryWrappers/diffutils_jll.jl/releases/download/diffutils-v3.7.0+0/diffutils.v3.7.0.x86_64-w64-mingw32.tar.gz"
